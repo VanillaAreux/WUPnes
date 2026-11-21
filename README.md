@@ -4,8 +4,7 @@ NES games on the Wii U GamePad, for the [Homebrew Menu](https://github.com/raven
 shape as [WUP Boy](https://github.com/ravensclawx/wup-boy): a list of games (`main.c`, in the menu's look) and a player
 (`player/`) that the list starts with a game's path.
 
-> **Status:** the core is tested on a computer (see [Testing](#testing)). It has **not** been run on a real GamePad yet,
-> so speed is unmeasured.
+> **Status:** the core is tested on a computer (see [Testing](#testing)). It has been tested on GamePad as well with minor occassional slowdown.
 
 ## Install
 
